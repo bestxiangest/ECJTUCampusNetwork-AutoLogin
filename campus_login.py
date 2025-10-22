@@ -6,8 +6,8 @@ import sys
 import socket # 用于获取 IP
 
 # --- 用户凭据 ---
-USERNAME = "2023061004000127"
-PASSWORD = "zzn20041031"
+USERNAME = "2023061004000xxx"
+PASSWORD = "xxxxx"
 OPERATOR_SUFFIX = "@unicom" # 中国联通对应的后缀
 
 # --- 网络配置 ---

@@ -28,8 +28,8 @@
 1.  **下载脚本**:
     * 通过 Git 克隆本仓库：
         ```bash
-        git clone <你的仓库URL>
-        cd <你的仓库目录>
+        git clone https://github.com/bestxiangest/ECJTU-Campus-Network-Auto-Login-Script
+        cd ECJTU-Campus-Network-Auto-Login-Script
         ```
     * 或者直接下载仓库中的 `campus_login.py` 文件。
 
@@ -45,8 +45,8 @@
     * 找到以下几行代码：
         ```python
         # --- 用户凭据 ---
-        USERNAME = "2023061004000127"
-        PASSWORD = "zzn20041031"
+        USERNAME = "2023061004000xxx"
+        PASSWORD = "xxxxx"
         OPERATOR_SUFFIX = "@unicom" # 中国联通对应的后缀
         ```
     * **将 `USERNAME` 的值修改为你自己的学号或账号。**
@@ -148,4 +148,4 @@
 
 ## 许可证
 
-(可选) 你可以在这里添加许可证信息，例如 MIT License。
+MIT License。
