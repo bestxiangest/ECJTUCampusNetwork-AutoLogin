@@ -10,6 +10,11 @@ USERNAME = "2023061004000xxx"
 PASSWORD = "xxxxx"
 OPERATOR_SUFFIX = "@unicom" # 中国联通对应的后缀
 
+# 如果你是中国联通用户，保持 @unicom 不变。
+# 如果你是中国电信用户，修改为 @telecom。
+# 如果你是中国移动用户，修改为 @cmcc。
+
+
 # --- 网络配置 ---
 LOGIN_PAGE_IP = "172.16.2.100"
 EPORTAL_PORT = "801"
