@@ -72,6 +72,9 @@
     ```
 5.  脚本会自动检测网络状态。如果需要登录，它会尝试自动登录并输出相应的信息。如果已经联网，它会提示无需登录。
 
+<img width="1094" height="392" alt="image" src="https://github.com/user-attachments/assets/8a230621-b289-4183-9418-b4b641c3c40a" />
+
+
 ## 设置开机/登录时自动运行 (Windows 11)
 
 你可以使用 Windows 的任务计划程序让脚本在每次登录 Windows 时自动运行。
